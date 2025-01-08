@@ -1,0 +1,50 @@
+[
+  {
+    "title": "E-commerce Website",
+    "imageSrc": "projects/freshCart.png",
+    "description": "Fresh Cart offers a fast, responsive, and user-friendly shopping experience.",
+    "skills": ["React", "JSX" , "Redux" , "Tailwind"],
+    "demo": "https://halamagdi.github.io/fresh-cart-e-commerce/",
+    "source": "https://github.com/halamagdi/fresh-cart-e-commerce.git"
+  },
+  {
+    "title": "Transaction table",
+    "imageSrc": "projects/transaction.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "React table" , "React charts"],
+    "demo": "https://halamagdi.github.io/transaction-data-table/",
+    "source": "https://github.com/halamagdi/transaction-data-table.git"
+  },
+  {
+    "title": "Personal Dashboard",
+    "imageSrc": "projects/dashboard.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Angular 16", "animations"],
+    "demo": "https://halamagdi.github.io/dash-board/",
+    "source": "https://github.com/halamagdi/dash-board.git"
+  },
+  {
+    "title": "Weather application",
+    "imageSrc": "projects/weather.png",
+    "description": "This application is a user-friendly weather app that displays the current weather conditions and forecasts for the next two days.",
+    "skills": ["Weather Api", "search by country"],
+    "demo": "https://halamagdi.github.io/weather-app/",
+    "source": "https://github.com/halamagdi/weather-app.git"
+  },
+  {
+    "title": "Food application",
+    "imageSrc": "projects/food.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Food Api", "search by name" ],
+    "demo": "https://halamagdi.github.io/food-application/",
+    "source": "https://github.com/halamagdi/food-application.git"
+  },
+  {
+    "title": "Quiz application:",
+    "imageSrc": "projects/quiz.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Javascript OOP", "Quiz api" ],
+    "demo": "https://halamagdi.github.io/Quiz-app/",
+    "source": "https://github.com/halamagdi/Quiz-app.git"
+  }
+]
